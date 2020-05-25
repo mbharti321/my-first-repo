@@ -2,6 +2,8 @@
 
 ### Image
  [Profile Pic](https://photos.app.goo.gl/uCe8VGXriDiM5mJV6)
+
+
  ![Profile Pic](https://photos.app.goo.gl/uCe8VGXriDiM5mJV6)
 
 ### Geography
@@ -29,7 +31,7 @@ if i talk about foods i like then these are few of them listed here,
 
 ### Contact
 
- Here is my email id [e-mail](mbharti321@gmail.com)
+ Here is my email id [e-mail **mbharti321@gmail.com**](https://mail.google.com/mail/u/0/#inbox?compose=new)
  I'm reachable on twitter [on twitter] (https://twitter.com/Manish__Bharti)
  You can contact me on the plateform [Linkden](https://www.linkedin.com/in/manish-bharti)
  The **best way** to get in touch with me over mobile. 
