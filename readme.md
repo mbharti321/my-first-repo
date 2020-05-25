@@ -1,28 +1,37 @@
-# This is a large heading
+#Manish Bharti
 
-## This is a smaller heading
+### Image
+ ![Profile Pic](https://photos.app.goo.gl/XZXNz5LELjuNMqA4A)
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Bangalore, in the state of Karnataka, in India.
 
-1. This is
-2. an ordered
-3. list
+### Readings
 
-Here is `some code` in the middle of a sentence.
+If i not wrong i have read only a few of books. 
+I used to read Champak and small comics books,jokes and baby stories books.
+yaa, i have read the book named **Panchtantra Ki Kahaniyan**.
+recently i read **Like it Happen Yesterday** by the writter *Rvinder Singh*.
+These are the few of boooks which are favorite of the Unix professor *Sean Kross* :
 
-```
-This is
-a block
-of code
-```
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
+if i talk about foods i like then these are few of them listed here,
+1. Mashala Dosa
+2. Pizza
+3. Motichur Ka Luddu
+4. Sweet Vermicili and so on..
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+ Here is my email id [e-mail](mbharti321@gmail.com)
+ I'm reachable on twitter [on twitter] (https://twitter.com/Manish__Bharti)
+ You can contact me on the plateform [Linkden](https://www.linkedin.com/in/manish-bharti)
+ The **best way** to get in touch with me over mobile. 
+	Dial **+91 9955262206**
+
+
