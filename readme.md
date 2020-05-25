@@ -2,6 +2,7 @@
 
 ### Image
  [Profile Pic](https://photos.app.goo.gl/uCe8VGXriDiM5mJV6)
+ ![Profile Pic](https://photos.app.goo.gl/uCe8VGXriDiM5mJV6)
 
 ### Geography
 
